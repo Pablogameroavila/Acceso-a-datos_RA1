@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE clase [
+    <!ENTITY secreto SYSTEM "file:///etc/hostname">
+]>
+<clase fecha="2026-11-19" grupo="2DAM">
+    <alumno id="1">
+        <nombre>&secreto;</nombre>
+        <modulo>Prueba</modulo>
+        <notaMedia escala="10">5.00</notaMedia>
+        <horasFaltas>1</horasFaltas>
+    </alumno>
+</clase>

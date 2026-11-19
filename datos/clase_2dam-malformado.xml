@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clase fecha="2026-11-19" grupo="2DAM">
+    <alumno id="1">
+        <nombre>Alumno con la etiqueta sin cerrar
+        <modulo>Acceso a Datos</modulo>
+    </alumno>
+</clase>

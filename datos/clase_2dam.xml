@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clase fecha="2026-11-19" grupo="2DAM">
+    <alumno id="1">
+        <nombre>Pablo Navarro</nombre>
+        <modulo>Acceso a Datos</modulo>
+        <notaMedia escala="10">8.75</notaMedia>
+        <horasFaltas>2</horasFaltas>
+    </alumno>
+    <alumno id="2">
+        <nombre>Lucía Gómez</nombre>
+        <modulo>PSP</modulo>
+        <notaMedia escala="10">9.10</notaMedia>
+        <horasFaltas>0</horasFaltas>
+    </alumno>
+    <alumno id="3">
+        <nombre>Carlos Mendoza</nombre>
+        <modulo>PMDM</modulo>
+        <notaMedia escala="10">6.50</notaMedia>
+        <horasFaltas>8</horasFaltas>
+    </alumno>
+    <alumno id="4">
+        <nombre>Elena Torres</nombre>
+        <modulo>Sistemas &amp; Gestión Empresarial</modulo>
+        <notaMedia escala="10">7.80</notaMedia>
+        <horasFaltas>4</horasFaltas>
+    </alumno>
+    <alumno id="5">
+        <nombre>Javier Serrano</nombre>
+        <modulo>Acceso a Datos</modulo>
+        <notaMedia escala="10">5.90</notaMedia>
+        <horasFaltas>12</horasFaltas>
+    </alumno>
+    <alumno id="6">
+        <nombre>Marta Castillo</nombre>
+        <modulo>Desarrollo de Interfaces</modulo>
+        <notaMedia escala="10">9.40</notaMedia>
+        <horasFaltas>1</horasFaltas>
+    </alumno>
+</clase>

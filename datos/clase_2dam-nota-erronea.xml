@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clase fecha="2026-11-19" grupo="2DAM">
+    <alumno id="1">
+        <nombre>Alumno con nota ilegible</nombre>
+        <modulo>Prueba</modulo>
+        <notaMedia escala="10">aprobado</notaMedia>
+        <horasFaltas>1</horasFaltas>
+    </alumno>
+</clase>
