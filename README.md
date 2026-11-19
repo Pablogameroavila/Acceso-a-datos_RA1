@@ -1,6 +1,16 @@
-# Acceso a Datos · RA1 · <Pablo Gamero Ávila>
+# Acceso a Datos · RA1 · Pablo Gamero Ávila
 
-**Temática:** Gestión de la Clase de 2º de DAM (alumnos, módulos, notas, actas y asistencia)  
+## Ficha del alumno/a
+
+| Campo | Dato |
+| :--- | :--- |
+| **Nombre y apellidos** | Pablo Gamero Ávila |
+| **Centro educativo** | `<IES Antonio Gala>` |
+| **Empresa** | `<Iprevencion>` |
+| **Temática elegida para tu proyecto** | Gestión de la Clase de 2º de DAM (alumnos, módulos, notas, actas y asistencia) |
+| **URL de tu repositorio (GitHub / GitLab)** | https://github.com/Pablogameroavila/Acceso-a-datos_RA1 |
+
+  
 **Entorno:** JDK 21 · IntelliJ IDEA · JUnit 6.1.3 · Maven
 
 ## Cómo ejecutar el proyecto y las pruebas
